@@ -11,10 +11,12 @@
       "minecraft:forest": "2025-07-25 22:09:49 -0300",
       "minecraft:deep_dark": "2025-07-26 15:18:17 -0300",
       "minecraft:sparse_jungle": "2025-07-25 23:07:34 -0300",
+      "minecraft:ocean": "2025-07-27 13:15:44 -0300",
       "minecraft:river": "2025-07-25 22:09:42 -0300",
       "minecraft:lukewarm_ocean": "2025-07-25 22:20:45 -0300",
       "minecraft:stony_shore": "2025-07-25 22:16:32 -0300",
       "minecraft:savanna": "2025-07-25 22:05:05 -0300",
+      "minecraft:windswept_savanna": "2025-07-27 13:15:56 -0300",
       "minecraft:plains": "2025-07-25 22:27:25 -0300",
       "minecraft:deep_lukewarm_ocean": "2025-07-25 23:02:09 -0300"
     },
@@ -2309,6 +2311,78 @@
   "minecraft:adventure/ol_betsy": {
     "criteria": {
       "shot_crossbow": "2025-07-27 00:51:32 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2025-07-27 12:50:21 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2025-07-27 12:50:21 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-07-27 12:43:25 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2025-07-27 12:50:21 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-07-27 12:52:32 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/suspicious_stew_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-07-27 12:58:48 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-07-27 12:58:48 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2025-07-27 12:42:30 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-07-27 13:07:17 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2025-07-27 12:42:30 -0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-07-27 12:52:31 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2025-07-27 12:42:30 -0300"
     },
     "done": true
   },
